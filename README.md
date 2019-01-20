@@ -16,5 +16,5 @@
 4. When the download is complete again type in command line:
       python manage.py runserver
 5. In your browser  enter a url http://localhost:8000/api/event/ \
-If you all done right you can see\
+If you've  done all right you can see\
 ![image](https://user-images.githubusercontent.com/29203760/51437979-003b7400-1cb7-11e9-8a5b-537e58c9ce62.png)
